@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "eu"
-title                    : "Joanes Plazaola / Makina Ikasketa"
+title                    : "Joanes Plazaola"
 title_separator          : "-"
 name                     : &name "Joanes Plazaola"
 description              : &description "Datu zientzialaria izateko prozesuan"
