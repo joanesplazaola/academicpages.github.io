@@ -3,6 +3,7 @@ title: 'Python ikastaroa (I)'
 lang: eu
 date: 2019-02-15
 permalink: /posts/2019/02/python-ikastaroa/
+use_code: true
 tags:
   - python
   - tutoriala
