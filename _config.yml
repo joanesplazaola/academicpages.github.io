@@ -172,7 +172,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  ikerketa:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -204,7 +204,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: ikerketa
 
     values:
       layout: single

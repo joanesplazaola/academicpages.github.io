@@ -2,10 +2,10 @@
 main:
 
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
 
-  - title: "Research"
-    url: /teaching/
+  - title: "Ikerketa"
+    url: /ikerketa/
 
   - title: "CV"
     url: /cv/
