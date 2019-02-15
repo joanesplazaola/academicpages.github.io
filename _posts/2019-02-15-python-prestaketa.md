@@ -28,6 +28,8 @@ ez da aukera txarra, ez?
 
 ## Honera arte helduz gero, ez dut irtenbiderik, ez?
 
+![](../images/2019/maze.jpg)
+
 Egia esan, ez. Jada ezin da atzera egin, bilatzaileko atzerako botoia blokeatuta aurkituko duzu, eta ez baduzu aurrera jarraitzen
 birus bat sartuko zaizu ordenagailuan, badakizu Python jakitearen abantailak.
 
