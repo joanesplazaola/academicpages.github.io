@@ -15,7 +15,7 @@ Sarrera hauek batez ere programazio munduan oso sakon sartu gabeko jendearentzat
  eta zertarako balio dezakeen ikusiko dugu. Batez ere datuen zientziari eta ikasketa automatikoari buruz ariko garenez,
  alor horretan gehien erabiltzen den programazio lengoaia erabiliko dugu.
  
- ### Eta zertarako ikasi behar dut nik Python?
+## Eta zertarako ikasi behar dut nik Python?
  
 Aurrerago ikusiko dugun moduan, Python, programazio hizkuntzen artean hasteko errazenetarikoa da, eta nahiz eta oso sintaxi
 ulergarria duen, oso da erabilgarria.
@@ -25,7 +25,7 @@ aurpegiak detektatzeko, YouTubetik bideo listak jeisteko, edota joku bat sortzek
 ez da aukera txarra, ez?
 
 
-### Honera arte helduz gero, ez dut irtenbiderik, ez?
+## Honera arte helduz gero, ez dut irtenbiderik, ez?
 
 Egia esan, ez. Jada ezin da atzera egin, bilatzaileko atzerako botoia blokeatuta aurkituko duzu, eta ez baduzu aurrera jarraitzen
 birus bat sartuko zaizu ordenagailuan, badakizu Python jakitearen abantailak.
@@ -43,7 +43,7 @@ ekartzen baititu.
 
 Aipatutako hiru moduetan (Linux, MacOS eta Windowsen) orain arteko bidea bera da, hemen hasten da desberdintasuna.
 
-#### Miniconda instalatu (Linux)
+### Miniconda instalatu (Linux)
 
 Linuxen oso da sinplea Miniconda instalatzea, gure ordenagailuaren arkitekturaren arabera, 32-bit edo 64-biteko instalatzailea aukeratuko
 dugu. Horretarako, terminala zabaldu, eta `lscpu` idatziko dugu.
