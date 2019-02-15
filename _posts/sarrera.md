@@ -1,0 +1,49 @@
+---
+title: 'Ongi etorri'
+date: 2019-02-11
+permalink: /posts/2019/02/ongi-etorri/
+tags:
+  - machine learning
+  - python
+  - statistics
+  - maths
+---
+
+Aspalditik ikasketa automatikoa (Machine Learning izenez ezagunagoa) dena ikasteko gogoz nabil, eta orain dela hilabete batzuetatik, Gradu Amaierako Lanaren bidez, banabil pixkanaka gauzak ikasten.
+
+
+Prozesu luze hau hasi duten hainbaten gomendioz, eta gai honen inguruan euskaraz dagoen eduki urria kontuan izanda, ikasitakoak hemen publikatzen joango naiz, astean behin aletxo bat, besterik ez bada.
+
+
+![alt text](../images/roboto.jpg "Makina ikasketak aurrerapen handiak izan ditu azken urteotan")
+*Makina ikasketak aurrerapen handiak izan ditu azken urteotan.*
+
+
+Hasiera batean, batez ere teknologiarekin lotutako gaiak jorratuko ditugu, edota teknologia hauek atzean dituzten oinarriak aztertzen saiatuko gara, sakonago ulertu ahal izateko. Landuko diren gaien artean, hauek dira hurrengo landu nahi ditudanak:
+
+* Ikasketa automatikoa ulertzeko oinarrizko estatistika
+* Ikasketa automatikoa ulertzeko oinarrizko algebra
+* Oinarrizko pythonen tutorial bat
+* Pythonen datu-zientzia liburuen azalpena
+    * Pandas
+    * Numpy
+    * SciPy
+    * ...
+* Ikasketa automatiko klasikoaren oinarriak
+    * Sailkapena  (Classification)
+    * Erregresioa (Regression)
+    * Multzokatzea (Clustering)
+
+* Ikasketa automatikoan erabiltzen diren algoritmoen azalpena
+    * Ausazko basoak (Random Forest)
+    * Euskarri bektoredun makina (Support Vector Machine)
+    * K Nearest Neighbor
+    * Erregresio linearra
+    * Sailkatzaile Bayestarra
+    * ...
+
+
+Informazio eta eduki iturri bat izateko jaio da blog hau, eta batez ere, bide honetan ikasitakoa ez ahazteko modu bat, nola ez! Honen inguruan proposamenik edo hobekuntzarik izanez gero, jo beldurrik gabe nigana.
+
+
+Ah, eta __ongi etorri__.
