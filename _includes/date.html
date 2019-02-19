@@ -1,0 +1,47 @@
+{% capture hide %}
+
+{% if include.mode != 'month' %}
+
+  {% assign day = include.date | date: "%-d" %}
+
+{% endif %}
+
+{% if page.language == 'eu' %}
+
+  {% assign m = include.date | date: "%-m" %}
+  {% case m %}
+    {% when '1' %}
+      {% capture month %}Urtarrila{% endcapture %}
+    {% when '2' %}
+      {% capture month %}Otsaila{% endcapture %}
+    {% when '3' %}
+      {% capture month %}Martxoa{% endcapture %}
+    {% when '4' %}
+      {% capture month %}Apirila{% endcapture %}
+    {% when '5' %}
+      {% capture month %}Maiatza{% endcapture %}
+    {% when '6' %}
+      {% capture month %}Ekaina{% endcapture %}
+    {% when '7' %}
+      {% capture month %}Uztaila{% endcapture %}
+    {% when '8' %}
+      {% capture month %}Abuztua{% endcapture %}
+    {% when '9' %}
+      {% capture month %}Iraila{% endcapture %}
+    {% when '10' %}
+      {% capture month %}Urria{% endcapture %}
+    {% when '11' %}
+      {% capture month %}Azaroa{% endcapture %}
+    {% when '12' %}
+      {% capture month %}Abendua{% endcapture %}
+  {% endcase %}
+
+{% else %}
+
+  {% capture month %}{{ include.date | date: "%B" }}{% endcapture %}
+
+{% endif %}
+
+{% capture year %}{{ include.date | date: "%Y" }}{% endcapture %}
+
+{% endcapture %}

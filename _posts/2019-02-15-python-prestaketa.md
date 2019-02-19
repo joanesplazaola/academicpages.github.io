@@ -31,11 +31,11 @@ ez da aukera txarra, ez?
 ![](/images/2019/maze.jpg)
 
 Egia esan, ez. Jada ezin da atzera egin, bilatzaileko atzerako botoia blokeatuta aurkituko duzu, eta ez baduzu aurrera jarraitzen
-birus bat sartuko zaizu ordenagailuan, badakizu Python jakitearen abantailak.
+birus bat sartuko zaizu ordenagailuan, badakizu, Python jakitearen abantailak.
 
 Gutxika-gutxika hasiko gara, lehenik, ikasteko beharko dituzun tresnak deskargatuko ditugu, ez da oso astuna izango, lasai.
 
-Nahiz eta mundu guztiak Linuxen lan egin beharko lukeen (:P) , badakit mundua ez dela perfektua, eta Windows eta MacOS erabiltzen duen jendea
+Nahiz eta mundu guztiak Linux erabili beharko lukeen (:P) , badakit mundua ez dela perfektua, eta Windows eta MacOS erabiltzen duen jendea
 ere existitzen dela... Jarraian, tresnak instalatzeko hiru moduak azalduko ditut, eta dena ondo egin dugun aztertuko dugu amaieran.
 
 Python erabili ahal izateko, Miniconda instalatuko dugu, datuen zientziarako erabiltzen diren tresna gehienak berarekin 
@@ -66,3 +66,40 @@ sh Miniconda3-latest-Linux-x86_64.sh
 ```
 
 Enter tekla sakatuz, MiniCondaren instalazio menua ikusiko dugu, hainbat galderarekin.
+
+1. “In order to continue the installation process, please review the license agreement.” jartzen duen tokian, Enter botoia sakatu.
+2. Segi beheraino (irakurriz, noski) eta idatzi "Y" ados zaudela esateko.
+3. Miniconda instalatuko den tokia adieraziko digu, mantendu nahiz gero, enter sakatu, bestela aldatu eta enter.
+4. Hurrengoari ere dagoen moduan baieztatu, gure PATH globalean sartuko du Miniconda, eta edonon erabili ahal izango dugu.
+5. Microsoft Visual Studio Code IDEa instalatu nahi dugun galdetuko digu, gustoko izanez gero, aukeratu, nik ez dut gomendatzen,
+gero aipatuko dugu zein IDErekin egingo ditugun garapenak.
+6. Amaitu da instalazioa! Orain itxi terminala, eta ireki berri bat.
+7. Terminal berrian idatzi `source ~/.bashrc`, instalazioa aplikatzeko.
+8. Dena ondo dagoen ikusteko, `conda -V` idatzi terminalean, `conda 4.6.3` moduko zerbait ikusi beharko litzateke.
+
+
+
+
+
+### Miniconda instalatu (Windows)
+
+Windowsen, instalazioa guztiz grafikoa da, eta oso sinplea. Lehenik, gure sistemaren arkitekturaren arabera, 32 edota 64-biteko
+ instalatzailea aukeratuko dugu. Gurea zein den jakiteko, tutorial [honetako](https://support.wdc.com/knowledgebase/answer.aspx?ID=9405)
+ pausuak jarraituko ditugu.
+
+Behin hori dakigunean, Linux-en azpian dagokigun instalatzailea jeitsiko dugu. 
+
+Jaitsi ostean, Windowseko beste edozein exekutagarriren antzera, bi klik eginaz exekutatuko dugu.
+
+
+MiniCondaren instalazio menua ikusiko dugu, eta pausu hauek emango ditugu.
+
+1. "Irakurri" lizentzia testua eta "I agree" klikatu.
+2. Segi beheraino (irakurriz, noski) eta idatzi "Y" ados zaudela esateko.
+3. Miniconda instalatuko den tokia adieraziko digu, mantendu nahiz gero, enter sakatu, bestela aldatu eta enter.
+4. Hurrengoari ere dagoen moduan baieztatu, gure PATH globalean sartuko du Miniconda, eta edonon erabili ahal izango dugu.
+5. Microsoft Visual Studio Code IDEa instalatu nahi dugun galdetuko digu, gustoko izanez gero, aukeratu, nik ez dut gomendatzen,
+gero aipatuko dugu zein IDErekin egingo ditugun garapenak.
+6. Amaitu da instalazioa! Orain itxi terminala, eta ireki berri bat.
+7. Terminal berrian idatzi `source ~/.bashrc`, instalazioa aplikatzeko.
+8. Dena ondo dagoen ikusteko, `conda -V` idatzi terminalean, `conda 4.6.3` moduko zerbait ikusi beharko litzateke.
