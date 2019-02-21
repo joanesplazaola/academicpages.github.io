@@ -11,8 +11,8 @@ tags:
 
 Hemen erreferentziatuko ditut pythoni buruz egingo ditudan atalak, era antolatu batean egon dadin.
 
-1. [Instalazioa]() 
-2. [Aldagaiak]()
+1. [Instalazioa](https://joanesplazaola.github.io/posts/2019/02/python-instalazioa/) 
+2. [Aldagaiak](https://joanesplazaola.github.io/posts/2019/02/python-aldagaiak/)
 3. [IDE aukeraketa (**bidean**)]()
 4. [Baldintzak (**bidean**)]()
 5. [Begiztak (for, while) (**bidean**)]()
