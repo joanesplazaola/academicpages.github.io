@@ -117,4 +117,4 @@ gero aipatuko dugu zein IDErekin egingo ditugun garapenak.
 
 
 Eeeeta, honekin bukatu ditugu Pythoni buruzko azalpenak, dena ondo, ez? (Prozesu honen ostean oraindik ikasteko gogoz bazaude,
-segi [hurrengo atalera](https://joanesplazaola.github.io/posts/2019/02/python-1/), bertan hasiko gara benetan Pythonekin jolasean eta.) 
+segi [hurrengo atalera]({% post_url 2019-02-21-python-1.md%}), bertan hasiko gara benetan Pythonekin jolasean eta.) 
