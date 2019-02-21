@@ -52,7 +52,10 @@ ekartzen baititu.
 
 Aipatutako hiru moduetan (Linux, MacOS eta Windowsen) orain arteko bidea bera da, hemen hasten da desberdintasuna.
 
-### Miniconda instalatu (Linux/ MacOS)
+* [Linux eta MacOS](#linux-eta-macos)
+* [Windows](#windows)
+
+### Linux eta MacOS
 
 Linuxen oso da sinplea Miniconda instalatzea, gure ordenagailuaren arkitekturaren arabera, 32-bit edo 64-biteko instalatzailea aukeratuko
 dugu. Horretarako, terminala zabaldu, eta `lscpu` idatziko dugu.
@@ -62,7 +65,7 @@ eta "x86_64" baliorekin berriz, 64-bitekoa dela.
 
 MacOs erabiltzen ari bagara, terminalean `getconf LONG_BIT` idatzita agertuko zaigu nolako arkitektura den.
 
-Behin hori dakigunean, Linux-en azpian dagokigun instalatzailea jeitsiko dugu. 
+Behin hori dakigunean, Linux/MacOSen azpian dagokigun instalatzailea jeitsiko dugu. 
 
 Jaitsi ostean, fitxategi kudeatzailean fitxategia deskargatu den tokira joango gara, eta ezer aukeratu gabe, saguaren eskuineko
 botoia klikatuz, "Open in Terminal" edota "Ireki terminalean" aukeratuko dugu.
@@ -87,15 +90,13 @@ gero aipatuko dugu zein IDErekin egingo ditugun garapenak.
 
 
 
-
-
-### Miniconda instalatu (Windows)
+## Windows
 
 Windowsen, instalazioa guztiz grafikoa da, eta oso sinplea. Lehenik, gure sistemaren arkitekturaren arabera, 32 edota 64-biteko
  instalatzailea aukeratuko dugu. Gurea zein den jakiteko, tutorial [honetako](https://support.wdc.com/knowledgebase/answer.aspx?ID=9405)
  pausuak jarraituko ditugu.
 
-Behin hori dakigunean, Linux-en azpian dagokigun instalatzailea jeitsiko dugu. 
+Behin hori dakigunean, Windowsen azpian dagokigun instalatzailea jeitsiko dugu. 
 
 Jaitsi ostean, Windowseko beste edozein exekutagarriren antzera, bi klik eginaz exekutatuko dugu.
 
@@ -111,8 +112,6 @@ gero aipatuko dugu zein IDErekin egingo ditugun garapenak.
 6. Amaitu da instalazioa! Orain itxi terminala, eta ireki berri bat.
 7. Terminal berrian idatzi `source ~/.bashrc`, instalazioa aplikatzeko.
 8. Dena ondo dagoen ikusteko, `conda -V` idatzi terminalean, `conda 4.6.3` moduko zerbait ikusi beharko litzateke.
-
-
 
 
 
