@@ -2,12 +2,11 @@
 title: 'Python tutorialeko gida'
 lang: eu
 date: 2019-02-20
-permalink: /posts/2019/02/ongi-etorri/
+permalink: /posts/2019/02/python-gida/
 tags:
-  - machine learning
-  - python
-  - statistics
-  - maths
+ - python
+ - tutoriala
+ - oinarriak
 ---
 
 Hemen erreferentziatuko ditut pythoni buruz egingo ditudan atalak, era antolatu batean egon dadin.
