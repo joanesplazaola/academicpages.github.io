@@ -11,12 +11,12 @@ tags:
 
 Hemen erreferentziatuko ditut pythoni buruz egingo ditudan atalak, era antolatu batean egon dadin.
 
-1. [Instalazioa]({% post_url 2019-02-15-python-prestaketa.md%}) 
-2. [Aldagaiak]({% post_url 2019-02-21-python-1.md%})
+1. [Instalazioa]() 
+2. [Aldagaiak]()
 3. [IDE aukeraketa (**bidean**)]()
-2. [Baldintzak (**bidean**)]()
-2. [Begiztak (for, while) (**bidean**)]()
-2. [Funtzioak (**bidean**)]()
-2. [Fitxategiak (**bidean**)]()
-2. [Klaseak (Objektuetara bideratutako programazioa) (**bidean**)]()
-2. [Funtzio gehigarriak (**bidean**)]()
+4. [Baldintzak (**bidean**)]()
+5. [Begiztak (for, while) (**bidean**)]()
+6. [Funtzioak (**bidean**)]()
+7. [Fitxategiak (**bidean**)]()
+8. [Klaseak (Objektuetara bideratutako programazioa) (**bidean**)]()
+9. [Funtzio gehigarriak (**bidean**)]()
