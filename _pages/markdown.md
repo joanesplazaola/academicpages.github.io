@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /career/
+title: "Career"
 author_profile: true
 redirect_from: 
   - /md/
